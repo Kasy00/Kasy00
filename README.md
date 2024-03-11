@@ -1,6 +1,6 @@
 # Hi there! I'm Kamil 👋
 
-I'm a third-year computer science student with a passion for creating websites and web applications. My goal is to become a Full Stack Web Developer, and currently, I'm actively working on expanding my skills in this field.
+I'm a third-year computer science student with a passion for creating websites and web applications. My goal is to become a Full Stack Web Developer, and currently, I'm actively working on expanding my skills in this field learning from [\[The Odin Project\]](https://www.theodinproject.com/)
 
 ## About Me
 
@@ -30,7 +30,7 @@ I'm a third-year computer science student with a passion for creating websites a
 If you have any questions, suggestions, or just want to chat, feel free to reach out:
 
 - 📧 Email: kamilsyktus3@gmail.com
-- 💬 LinkedIn: [\[Your LinkedIn Profile\]](https://www.linkedin.com/in/kamil-syktus-678734240/)
+- 💬 LinkedIn: [\[My Linkedin\]](https://www.linkedin.com/in/kamil-syktus-678734240/)
 
 ## Projects
 
