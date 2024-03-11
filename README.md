@@ -25,6 +25,7 @@ I'm a third-year computer science student with a passion for creating websites a
 <img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg">
 <img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 <img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+<br />
 ## Contact
 
 If you have any questions, suggestions, or just want to chat, feel free to reach out:
