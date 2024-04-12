@@ -37,7 +37,7 @@ If you have any questions, suggestions, or just want to chat, feel free to reach
 ## Projects
 
 Below are some of my projects that I'm currently working on or have completed:
-1. [MealMagicbutWithFrameWorks](https://github.com/Kasy00/MealMagic---ztpai) - A FullStack application with use of SpringBoot, React and Typescript. (InProgress)
+1. [MealMagicbutWithFrameworks](https://github.com/Kasy00/MealMagic---ztpai) - A FullStack application with use of SpringBoot, React and Typescript. (InProgress)
 1. [MealMagic](https://github.com/Kasy00/MealMagic) - A FullStack practical application that inspires you to create tasty dishes using the ingredients you already have, providing a variety of culinary options (DONE)
 2. [Tic Tac Toe](https://github.com/Kasy00/Tic-Tac-Toe) - VanillaJS tic tac toe game with a goal of having as little global code as possible. (DONE)
 3. [Library app](https://github.com/Kasy00/Library-app) - VanillaJS small library app with a goal of learning about prototypal inheritance and objects. (DONE)
