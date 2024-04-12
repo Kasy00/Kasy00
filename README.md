@@ -12,7 +12,7 @@ I'm a third-year computer science student with a passion for creating websites a
 
 - **Programming Languages:** HTML5, CSS3, JavaScript, Python, PHP
 - **Technologies:** Docker, Django, Git
-- **Libraries / Frameworks:** Currently learning Webpack, advanced Javascript and React, planning to learn Node.js and Typescript
+- **Libraries / Frameworks:** Currently learning Webpack, advanced Javascript, Typescript and React, planning to learn Node.js and Express
 - **Technologies that I used at my University and I am familiar with** C/C++, Java, Python, Django, PL/SQL
 
 <img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
@@ -37,9 +37,9 @@ If you have any questions, suggestions, or just want to chat, feel free to reach
 ## Projects
 
 Below are some of my projects that I'm currently working on or have completed:
-
-1. [MealMagic](https://github.com/Kasy00/MealMagic) - A FullStack practical application that inspires you to create tasty dishes using the ingredients you already have, providing a variety of culinary options
-2. [Tic Tac Toe](https://github.com/Kasy00/Tic-Tac-Toe) - VanillaJS tic tac toe game with a goal of having as little global code as possible.
-3. [Library app](https://github.com/Kasy00/Library-app) - VanillaJS small library app with a goal of learning about prototypal inheritance and objects.
+1. [MealMagicbutWithFrameWorks](https://github.com/Kasy00/MealMagic---ztpai) - A FullStack application with use of SpringBoot, React and Typescript. (InProgress)
+1. [MealMagic](https://github.com/Kasy00/MealMagic) - A FullStack practical application that inspires you to create tasty dishes using the ingredients you already have, providing a variety of culinary options (DONE)
+2. [Tic Tac Toe](https://github.com/Kasy00/Tic-Tac-Toe) - VanillaJS tic tac toe game with a goal of having as little global code as possible. (DONE)
+3. [Library app](https://github.com/Kasy00/Library-app) - VanillaJS small library app with a goal of learning about prototypal inheritance and objects. (DONE)
 
 Feel free to check out my GitHub profile for more!
