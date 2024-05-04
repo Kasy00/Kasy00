@@ -11,9 +11,9 @@ I'm a third-year computer science student with a passion for creating websites a
 ## Languages and Tools
 
 - **Programming Languages:** HTML5, CSS3, JavaScript, Python, PHP
-- **Technologies:** Docker, Django, Git
+- **Technologies:** Docker, Django, Git, JIRA
 - **Libraries / Frameworks:** Currently learning Webpack, advanced Javascript, Typescript and React, planning to learn Node.js and Express
-- **Technologies that I used at my University and I am familiar with** C/C++, Java, Python, Django, PL/SQL
+- **Technologies that I used at my University and I am familiar with** C/C++, Java, Python, Django, PL/SQL, Linux
 
 <img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -25,6 +25,8 @@ I'm a third-year computer science student with a passion for creating websites a
 <img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg">
 <img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 <img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+<img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+<img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg">
 <br />
 
 ## Contact
