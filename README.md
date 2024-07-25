@@ -10,10 +10,10 @@ I'm a third-year computer science student with a passion for creating websites a
 
 ## Languages and Tools
 
-- **Programming Languages:** HTML5, CSS3, JavaScript, Python, PHP
-- **Technologies:** Docker, Django, Git, JIRA
-- **Libraries / Frameworks:** Currently learning Webpack, advanced Javascript, Typescript and React, planning to learn Node.js and Express
-- **Technologies that I used at my University and I am familiar with** C/C++, Java, Python, Django, PL/SQL, Linux
+- **Programming Languages:** Javascript, Typescript, C#
+- **Technologies:** Angular, ASP.NET, React, Docker, Git, JIRA, Azure DevOps
+- **Libraries / Frameworks:** Currently working with Angular and ASP.Net framework during internship at Comarch BI Point team
+- **Technologies that I used at my University and I am familiar with** C/C++, Java and Spring Boot framework, Python and Django framework, PL/SQL, Linux
 
 <img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="left" width="30px" style="padding-righ: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
