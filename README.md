@@ -39,9 +39,10 @@ If you have any questions, suggestions, or just want to chat, feel free to reach
 ## Projects
 
 Below are some of my projects that I'm currently working on or have completed:
-1. [MealMagicbutWithFrameworks](https://github.com/Kasy00/MealMagic---ztpai) - A FullStack application with use of SpringBoot, React and Typescript. (InProgress)
-1. [MealMagic](https://github.com/Kasy00/MealMagic) - A FullStack practical application that inspires you to create tasty dishes using the ingredients you already have, providing a variety of culinary options (DONE)
-2. [Tic Tac Toe](https://github.com/Kasy00/Tic-Tac-Toe) - VanillaJS tic tac toe game with a goal of having as little global code as possible. (DONE)
-3. [Library app](https://github.com/Kasy00/Library-app) - VanillaJS small library app with a goal of learning about prototypal inheritance and objects. (DONE)
+1. [Cinema](https://github.com/Kasy00/cinema) - A FullStack app built using ASP.Net and Angular as an onboarding application during internship at Comarch BI Point team. (DONE)
+2. [MealMagicbutWithFrameworks](https://github.com/Kasy00/MealMagic---ztpai) - A FullStack application built using SpringBoot, React and Typescript. (DONE)
+3. [MealMagic](https://github.com/Kasy00/MealMagic) - A FullStack practical application that inspires you to create tasty dishes using the ingredients you already have, providing a variety of culinary options (DONE)
+4. [Tic Tac Toe](https://github.com/Kasy00/Tic-Tac-Toe) - VanillaJS tic tac toe game with a goal of having as little global code as possible. (DONE)
+5. [Library app](https://github.com/Kasy00/Library-app) - VanillaJS small library app with a goal of learning about prototypal inheritance and objects. (DONE)
 
 Feel free to check out my GitHub profile for more!
